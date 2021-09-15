@@ -11,6 +11,8 @@
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
+<br />
+<br />
 
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true)
