@@ -17,7 +17,7 @@
 
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true"></a>
+ <a href="https://www.linkedin.com/in/mohamadmansourx"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true"></a>
 
 
 <br />
