@@ -13,8 +13,7 @@
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true)
-
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true)
 
 <!--
 **mohamadmansourX/mohamadmansourx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
