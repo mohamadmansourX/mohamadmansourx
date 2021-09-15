@@ -15,6 +15,18 @@
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true)
 
+
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/mohamadmansourx">
+  <img align="right" alt="Mohamad Mansour | Linkedin" width="21px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
+</a>
+<a href="https://mohamadmansourx.github.io/">
+  <img align="right" alt="Mohamad Mansour | Portfolio" width="21px" src="https://raw.githubusercontent.com/mohamadmansourX/mohamadmansourx.github.io/89ba5bcd045222003eef360636dacd5fea42548a/images/favicon.png" />
+</a>
+
 <!--
 **mohamadmansourX/mohamadmansourx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
