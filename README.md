@@ -17,8 +17,8 @@
 
 
 
- <a href="https://www.linkedin.com/in/mohamadmansourx"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmansourX&count_private=true&show_icons=true"></a>
-
+ <a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark" alt="Mohamad Mansour's GitHub stats" /></a><a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmansourx&count_private=true&theme=dark" alt="Mohamad Mansour's Github Steak" /></a>
+  <br />
 
 <br />
 <br />
