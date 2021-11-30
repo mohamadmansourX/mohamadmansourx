@@ -26,7 +26,7 @@
  <a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmansourx&count_private=true&theme=dark" alt="Mohamad Mansour's Github Steak" /></a>
   <br />
  <a href="https://www.linkedin.com/in/mohamadmansourx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmansourx&layout=compact&hide=jupyter%20notebook&theme=dark&count_private=true&card_width=500" alt="My Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmansourx&layout=compact&hide=jupyter%20notebook&theme=dark&count_private=true" alt="My Top Languages">
 </a>
 <br />
 <br />
