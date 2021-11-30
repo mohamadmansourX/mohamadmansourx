@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
@@ -19,11 +18,19 @@
 
 
 
- <a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark" alt="Mohamad Mansour's GitHub stats" /></a><a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmansourx&count_private=true&theme=dark" alt="Mohamad Mansour's Github Steak" /></a>
-  <br />
+ <a href="https://www.linkedin.com/in/mohamadmansourx">
+ <img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark" alt="Mohamad Mansour's GitHub stats" /></a>
+ 
+<br />
 
+ <a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmansourx&count_private=true&theme=dark" alt="Mohamad Mansour's Github Steak" /></a>
+  <br />
+ <a href="https://www.linkedin.com/in/mohamadmansourx">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmansourx&layout=compact&hide=jupyter%20notebook&theme=dark&count_private=true&card_width=500" alt="My Top Languages" width=51%>
+</a>
 <br />
 <br />
+
 
 <a href="https://www.linkedin.com/in/mohamadmansourx">
   <img align="right" alt="Mohamad Mansour | Linkedin" width="21px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
