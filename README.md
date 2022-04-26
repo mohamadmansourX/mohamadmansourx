@@ -19,7 +19,7 @@
 
 
  <a href="https://www.linkedin.com/in/mohamadmansourx">
- <img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark" alt="Mohamad Mansour's GitHub stats" /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Mohamad Mansour's GitHub stats" /></a>
  
 <br />
 
