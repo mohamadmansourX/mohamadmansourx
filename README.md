@@ -32,6 +32,9 @@
 <br />
 
 
+<a href="https://scholar.google.com/citations?user=szX5Z_gAAAAJ">
+  <img align="right" alt="Mohamad Mansour | Scholar" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />
+</a>
 <a href="https://www.linkedin.com/in/mohamadmansourx">
   <img align="right" alt="Mohamad Mansour | Linkedin" width="21px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
 </a>
