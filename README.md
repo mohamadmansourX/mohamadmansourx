@@ -19,14 +19,14 @@
 
 
  <a href="https://www.linkedin.com/in/mohamadmansourx">
- <img src="https://github-readme-stats.vercel.app/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Mohamad Mansour's GitHub stats" /></a>
+ <img src="https://readme-stats.clckblog.space/api?username=mohamadmansourx&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Mohamad Mansour's GitHub stats" /></a>
  
 <br />
 
  <a href="https://www.linkedin.com/in/mohamadmansourx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmansourx&count_private=true&theme=dark" alt="Mohamad Mansour's Github Steak" /></a>
   <br />
  <a href="https://www.linkedin.com/in/mohamadmansourx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadmansourx&layout=compact&hide=jupyter%20notebook&theme=dark&count_private=true" alt="My Top Languages">
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=mohamadmansourx&layout=compact&hide=jupyter%20notebook&theme=dark&count_private=true" alt="My Top Languages">
 </a>
 <br />
 <br />
