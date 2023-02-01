@@ -11,7 +11,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Google Cloud Platform" width="26px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=google-cloud-platform&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-32%2F569356.png&width=32&height=32" />
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/cloud/images/favicons/onecloud/apple-icon.png"  width="32" height="32" />
 <br />
 <br />
 <br />
